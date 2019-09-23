@@ -1,0 +1,131 @@
+div{
+
+    background-color: chocolate;
+}
+#conatiner{
+    height: auto;
+    width: 100%;
+    padding: 0;
+}
+#top{
+    height: 60px;
+    width: 100%;
+    background-color:navy;
+   
+   
+
+}
+#middle{
+    height: 420px;
+    width: 100%;
+      background: #fff url('../images/70-Online-Survey.jpg') 0 0 no-repeat;
+      
+      
+    
+}
+#left{
+    height: 498px;
+    width: 40%;
+    float: left;
+    background-color: activeborder;
+}
+#right{
+    height: 498px;
+    width: 59.7%;
+    float: left;
+    background-color: activeborder;
+}
+#bottom{
+    height: 60px;
+    width: 100%;
+    background-color: deepskyblue;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+
+}
+#formul{
+    margin-top: 10px;
+    margin-left: 5px;
+    padding: 30px;
+}
+.formli{
+    margin: 20px;
+}
+.ifield{
+    height: 35px;
+    width: 250px;
+    border:1px solid cyan;
+
+}
+.button {
+    background-color: darkmagenta; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 26px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.li{
+    display: inline;
+    float: right;
+    margin-right: 90px;
+    margin-top: 10px;
+}
+#toppara{
+   margin: 15px 20px;
+   padding: 20px;
+   color: cornsilk;
+   
+}
+#passbox{
+    height: 250px;
+    width: 500px;
+    margin-top: 180px;
+    margin-left: 360px;
+    background-color: red;
+    
+}
+#passboxup{
+    height: 40px;
+    width: 500px;
+    background-color: blue;
+}
+#passboxdown{
+    height: 210px;
+    width: 500px;
+    background-color: yellow;
+}
+#passcontainer{
+    height: 550px;
+    width: 100%;
+    background-color: cyan;
+    
+}
+#fogetcontainer{
+    background-color: aqua;
+    height: 550px;
+    background: #fff url('../images/Battleship-Grey-Solid-Color-Background-Wallpaper-5120x2880.png') 0 0 no-repeat;
+    
+    
+}
+li>a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+li>a:hover{
+    color: red;
+    text-decoration: underline;
+}
+#paragraph{
+    margin: 24px;
+    color: #fff;
+}
